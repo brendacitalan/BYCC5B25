@@ -29,3 +29,22 @@
         <b><center><h1>Alumno Brenda Cayaxon</h1></center></b>
 </body>
 </html>
+
+h1{
+    color:orange;
+}
+h2{
+    color:red;
+    size: 23;
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    color: red;
+    size: 23;
+    font-family: 'Times New Roman', Times, serif;
+    width: 300px;
+    height: 200px;
+}
+body{
+    background-color: blueviolet;
+}
