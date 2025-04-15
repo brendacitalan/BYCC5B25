@@ -31,7 +31,7 @@
 </html>
 
 h1{
-    color:orange;
+    color:rgb(14, 197, 14);
 }
 h2{
     color:red;
@@ -46,5 +46,5 @@ img{
     height: 200px;
 }
 body{
-    background-color: blueviolet;
+    background-color:rgb(241, 142, 60);
 }
